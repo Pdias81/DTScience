@@ -9,16 +9,17 @@ Portfólio DataScience
 
 ## Meu Projeto Airbnb
 
-Uma breve descrição do meu projeto, que eu fiz com muito cuidado e atenção aos detalhes, chamando as pessoas para que entrem no meu notebook.
+O projeto Airbnb tem como enquadramento a plataforma com o mesmo nome.
+
+Atráves do site do Airbnb são disponibilizados ao público vários dados, para algumas das principais cidades do mundo. Por meio do portal Inside Airbnb, é possível baixar uma grande quantidade de dados para desenvolver projetos e soluções de Data Science.
+
+No meu projeto Airbnb analisamos os dados referentes à cidade de Lisboa (Portugal), entre os quais apuramos as localidades mais caras, a média de custo por noite, o tipo de alojamento preferido dos hóspedes, entre outros dados bastante relevantes.
+
+Para informações mais detalhadas do projeto, basta clicar no link infra:
 
 [Link para o projeto completo](https://medium.com/@rafaelnduarte)
 
-**Links para me acharem:**
-* [Artigo meu desse projeto no Medium](https://medium.com/@rafaelnduarte)
-* [Outro artigo meu desse projeto no Medium](https://medium.com/@rafaelnduarte)
-* [LinkedIn](https://www.linkedin.com/in/rafael-n-duarte/)
-* [Instagram](https://www.linkedin.com/in/rafael-n-duarte/)
-* [Portfólio Completo](https://www.linkedin.com/in/rafael-n-duarte/)
+
 
 
 
