@@ -9,7 +9,7 @@ Portfólio DataScience
 
 ## Meu Projeto Airbnb
 
-O projeto Airbnb tem como enquadramento a plataforma com o mesmo nome.
+O projeto Airbnb tem como enquadramento a plataforma com o mesmo nome. Trata-se de uma Startup fundada em 2008 e em 2018 já havia hospedado mais de 300 milhões de pessoas ao redor de todo o mundo, desafiando as redes hoteleiras tradicionais.
 
 Atráves do site do Airbnb são disponibilizados ao público vários dados, para algumas das principais cidades do mundo. Por meio do portal Inside Airbnb, é possível baixar uma grande quantidade de dados para desenvolver projetos e soluções de Data Science.
 
