@@ -17,7 +17,7 @@ No meu projeto Airbnb analisamos os dados referentes à cidade de Lisboa (Portug
 
 Para informações mais detalhadas do projeto, basta clicar no link infra:
 
-[Link para o projeto completo](https://medium.com/@rafaelnduarte)
+[Link para o projeto completo](https://colab.research.google.com/github/Pdias81/DTScience/blob/main/%5BTemplate%5D_Analisando_os_Dados_do_Airbnb.ipynb)
 
 
 
